@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/nadir-gg/spigot-command-api.svg)](https://jitpack.io/#nadir-gg/spigot-command-api)
+
 # spigot-command-api (but for jitpack)
 
 This is a Spigot Command API made by me, it's extremely useful & easy to use.
