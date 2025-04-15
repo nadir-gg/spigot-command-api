@@ -1,5 +1,4 @@
-# spigot-command-api
-## but for jitpack
+# spigot-command-api (but for jitpack)
 
 This is a Spigot Command API made by me, it's extremely useful & easy to use.
 ### Features
