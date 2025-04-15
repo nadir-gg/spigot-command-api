@@ -2,7 +2,7 @@
 
 # spigot-command-api (but for jitpack)
 
-This is a Spigot Command API made by me, it's extremely useful & easy to use.
+This is a Spigot Command API made by ashtton, it's extremely useful & easy to use.
 ### Features
 * Creates usage messages for you
 * Automatically parses parameters
